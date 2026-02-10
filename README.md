@@ -10,7 +10,7 @@ O que eu fiz!:
 
 - Conclusão: O projeto me permitiu unir o lado criativo ao técnico, transformando uma prática intuitiva em um estudo de manipulação estrutural de imagem. Agora, pretendo evoluir para cortes irregulares e novas permutações algorítmicas.
 
-***📝 Nota sobre o processamento das imagens
+📝 ***Nota sobre o processamento das imagens
 Durante a execução do código, os arquivos gerados a partir dos cortes e recombinações da imagem são salvos automaticamente na pasta do projeto. Isso inclui:
 - impresas_concatenadasPAR.jpg → concatenação das tiras pares
 - impresas_concatenadasIMPAR.jpg → concatenação das tiras ímpares
